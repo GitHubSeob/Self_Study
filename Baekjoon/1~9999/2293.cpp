@@ -27,4 +27,4 @@ int main() {
 	cout << DP[k];
 }
 
-//문제풀이: https://githubseob.tistory.com/12
+/* 문제풀이: https://githubseob.tistory.com/12 */
