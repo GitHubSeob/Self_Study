@@ -41,4 +41,4 @@ int main() {
 	cout << answer;
 }
 
-//문제풀이: https://www.acmicpc.net/problem/1202
+//문제풀이: https://githubseob.tistory.com/206
