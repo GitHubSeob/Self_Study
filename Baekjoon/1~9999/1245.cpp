@@ -70,4 +70,4 @@ int main() {
 	cout << answer;
 }
 
-//¹®Á¦Ç®ÀÌ: https://githubseob.tistory.com/357
+//ë¬¸ì œí’€ì´: https://githubseob.tistory.com/357
